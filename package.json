@@ -1,0 +1,28 @@
+{
+  "name": "redis-util-app-rpf",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "Evan Summers",
+  "license": "ISC",
+  "dependencies": {
+    "app-spec": "^0.2.0",
+    "bluebird": "^3.4.6",
+    "cli-color": "^1.1.0",
+    "lodash": "^4.17.4",
+    "multi-exec-async": "^0.2.0",
+    "redis": "^2.6.4",
+    "redis-logger-rpf": "^0.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanx/redis-util-app-rpf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evanx/redis-util-app-rpf/issues"
+  },
+  "homepage": "https://github.com/evanx/redis-util-app-rpf#readme"
+}
